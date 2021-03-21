@@ -15,8 +15,7 @@ const AboutSection = () => {
             </h2>
           </div>
           <div className="hide">
-            <h2></h2>
-            true.
+            <h2> true.</h2>
           </div>
         </div>
       </div>
